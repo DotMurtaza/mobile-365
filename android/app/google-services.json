@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485929881088",
+    "project_id": "mobile365-5515d",
+    "storage_bucket": "mobile365-5515d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485929881088:android:350eb20d0eca5f251352e5",
+        "android_client_info": {
+          "package_name": "com.example.mobile_365"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485929881088-pk67iauhs9jbdfdfbculc7jskn9t3alr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_9upuZYjCJklu57-GRIE66TdVNLHbZQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485929881088-pk67iauhs9jbdfdfbculc7jskn9t3alr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
